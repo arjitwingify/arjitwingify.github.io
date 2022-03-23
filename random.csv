@@ -1,0 +1,10 @@
+type|url|combination|isGoalToBeConverted|isReferral|userAgent|day|rVisitor|Funnel|deviceType|screenRes
+Direct/Android/Chrome|http://jatinm.wingified.com/analyse.html?id={accountId}|1|0|0|Mozilla/5.0 (Linux; Android 7.1.2; AFTMM Build/NS6265; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.110 Mobile Safari/537.36|0|1|3|desktop|1280x768
+Tablet/Social/iOS/Safari|http://jatinm.wingified.com/analyse.html?id={accountId}|1|1|2|Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1|0|1|1|tablet|1920x1080
+Mobile/Referral/iOS/Safari|http://jatinm.wingified.com/analyse.html?id={accountId}|1|0|1|Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1|0|1|1|mobile|1024x768
+Email/Mac OS/Chrome|http://jatinm.wingified.com/analyse.html?id={accountId}&utm_medium={medium}|1|1|3|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|0|1|3|desktop|1440x900
+Paid Search/ Linux/ Chrome|http://jatinm.wingified.com/analyse.html?id={accountId}&utm_medium={medium}|2|0|3|Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36|0|1|1|desktop|1280x800
+Browser – Firefox|http://jatinm.wingified.com/analyse.html?id={accountId}|2|1|0|Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0|0|1|1|desktop|1280x800
+Browser – Opera|http://jatinm.wingified.com/analyse.html?id={accountId}&qp=|2|0|0|Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14|0|1|1|desktop|1280x800
+Direct/Chrome/Windows/Query Param – qp=test|http://jatinm.wingified.com/analyse.html?id={accountId}&qp=TesT|2|1|0|Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MASMJS; rv:11.0) like Gecko|0|1|1|desktop|1280x800
+Direct/Chrome/Windows/Query Param – qp=test|http://jatinm.wingified.com/analyse.html?id={accountId}&qp=TesT|1|1|0|Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MASMJS; rv:11.0) like Gecko|0|1|1|desktop|1280x800
